@@ -48,6 +48,8 @@
 
 ---
 
+Here's the precise English translation of your profile without additions or modifications:
+
 # Hello! 👋 I'm Maxim (a.k.a @Fl1riX)  
 
 Welcome to my profile! I'm a programmer who strives to understand **how everything works under the hood**. I'm not just interested in using technology—I want to dig into its fundamental nature, from **assembly and CPU architecture to developing my own operating systems and low-level utilities**.  
@@ -105,11 +107,3 @@ Once, I just wanted to understand, "what does the CPU actually do when you turn 
 
 ### PS:  
 I'm not a pro, just a learner. Moving from **"how to write hello world in assembly"** to **"how to build my own OS"**.
-
-## ⚡ Fun Fact:
-Когда-то я просто хотел понять, "что там делает процессор, когда включаешь компьютер" — и с этого всё началось...
-
----
-
-### PS:
-Я не профи, я просто учус. Иду по пути от **"как написать hello world на ассемблере"** к **"как собрать свою ОС"**.
