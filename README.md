@@ -48,8 +48,6 @@
 
 ---
 
-Here's the precise English translation of your profile without additions or modifications:
-
 # Hello! 👋 I'm Maxim (a.k.a @Fl1riX)  
 
 Welcome to my profile! I'm a programmer who strives to understand **how everything works under the hood**. I'm not just interested in using technology—I want to dig into its fundamental nature, from **assembly and CPU architecture to developing my own operating systems and low-level utilities**.  
