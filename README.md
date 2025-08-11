@@ -30,7 +30,7 @@
 
 - **Языки:** немного MASM, немного Rust, Python
 - **Технологии:** Ассемблерное программирование, системное программирование, парсинг, Arduino
-- **Инструменты:** GoLink, GCC, VSCode, GDB, Arch Linux, Hyperland (Wayland compositor)
+- **Инструменты:** GoLink, GCC, VSCode, Neovim, GDB, Arch Linux, Hyperland (Wayland compositor)
 
 ---
 
