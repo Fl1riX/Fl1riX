@@ -72,7 +72,7 @@ Developing Telegram bots for automation, reminders, and API interactions.
 Experimenting with Arduino-based devices, exploring sensors, displays, and peripherals.  
 
 📚 **Learning When Inspiration Strikes:**  
-I care about understanding processes most people don't even notice: compilers, interpreters, assemblers, task schedulers.  
+I care about understanding processes most people don't even notice: compilers, interpreters, assemblers.  
 
 ---  
 
