@@ -78,9 +78,9 @@ I care about understanding processes most people don't even notice: compilers, i
 
 ## 🛠️ Technologies & Tools  
 
-- **Languages:** A bit of MASM, a bit of Rust, Python  
+- **Languages:** A bit of NASM, a bit of Rust, Python  
 - **Technologies:** Assembly programming, systems programming, parsing, Arduino  
-- **Tools:** GoLink, GCC, VSCode, GDB, Arch Linux, Hyprland (Wayland compositor)  
+- **Tools:** GoLink, GCC, VSCode, Neovim, GDB, Arch Linux, Hyprland (Wayland compositor)  
 
 ---  
 
