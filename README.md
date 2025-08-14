@@ -36,7 +36,7 @@
 
 ## 🎯 Цели
 
-- Написать минималистичную собственную ОС с работающим загрузчиком и ядром.
+- Написать собственную не большую ОС с работающим загрузчиком и ядром.
 - Освоить системное программирование на Rust.
 - Глубже понять архитектуру CPU и микроконтроллеров.
 
@@ -86,7 +86,7 @@ I care about understanding processes most people don't even notice: compilers, i
 
 ## 🎯 Goals  
 
-- Write a minimal custom OS with a working bootloader and kernel.  
+- Write my own small OS with a working bootloader and kernel.  
 - Master systems programming in Rust.  
 - Deepen my understanding of CPU and microcontroller architecture.  
 
