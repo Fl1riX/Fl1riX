@@ -31,7 +31,7 @@
 
 - **Языки:** немного NASM, немного Rust, Python
 - **Технологии:** Ассемблерное программирование, системное программирование, парсинг, Arduino
-- **Инструменты:** GoLink, GCC, VSCode, Neovim, GDB, Arch Linux, Hyperland (Wayland compositor)
+- **Инструменты:** GoLink, VSCode, Neovim, GDB, Arch Linux, Hyperland (Wayland compositor)
 
 ---
 
@@ -85,7 +85,7 @@ I care about understanding processes most people don't even notice: compilers, i
 
 - **Languages:** A bit of NASM, a bit of Rust, Python  
 - **Technologies:** Assembly programming, systems programming, parsing, Arduino  
-- **Tools:** GoLink, GCC, VSCode, Neovim, GDB, Arch Linux, Hyprland (Wayland compositor)  
+- **Tools:** GoLink, VSCode, Neovim, GDB, Arch Linux, Hyprland (Wayland compositor)  
 
 ---  
 
