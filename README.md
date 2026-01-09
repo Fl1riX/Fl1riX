@@ -4,7 +4,7 @@
 
 ### 🔥 Системный программист | Создатель ОС | Python Backend разработчик
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E77FF&center=true&vCenter=true&width=600&lines=💾+От+железа+до+приложений;🚀+C+%7C+Python+%7C+Assembly;⚡+Building+OS+from+scratch;🎯+FastAPI+%2B+SQLAlchemy+мастер" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E77FF&center=true&vCenter=true&width=600&lines=💾+От+железа+до+приложений;🚀+C+%7C+Python+%7C+Assembly;⚡+Building+OS+from+scratch;🎯+FastAPI+%2B+SQLAlchemy" alt="Typing SVG" />
 
 [![GitHub followers](https://img.shields.io/github/followers/Fl1riX?style=social)](https://github.com/Fl1riX)
 [![Profile Views](https://komarev.com/ghpvc/?username=Fl1riX&color=6E77FF&style=flat-square)](https://github.com/Fl1riX)
